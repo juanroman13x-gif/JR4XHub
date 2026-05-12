@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/juanroman13x-gif/JR4XHub/main/jr4xhub"))()
+
 
 local _junk = 12345; function _junkFunc() return _junk * 9 end
 
@@ -8563,4 +8565,3 @@ v2283.v441:v309(function()
 v2282.v430 = v7("return ''")()
 end)
 end)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JR4XHUB/jr4xhub/main/jr4xhub"))()
